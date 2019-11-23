@@ -11,7 +11,7 @@ We are a non-profit, co-operative land experimental collective. "Experimentation
 - Survey status: In Progress
 - Funtioning month count: 4 of 12 (June, July, August, September)
 
-The application process for new members is currently broken. If you would like to repair this website and the application process, contact us on Keybase: [https://keybase.io/team/4440.public](https://keybase.io/team/4440.public) ...there's a very good chance we won't do it ourselves. Code exists. Database dump exists. We're just lazy.
+The application process for new members is currently broken. If you would like to repair this website and the application process, contact us on Keybase: [https://keybase.io/team/4440.public](https://keybase.io/team/4440.public) ...there's a very good chance we won't do it ourselves. [Code exists](https://github.com/deobald/mombot). Database dump exists. We're just lazy.
 
 
 ## Documentation
